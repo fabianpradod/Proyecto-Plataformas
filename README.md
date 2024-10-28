@@ -8,5 +8,4 @@ Además se ha importado el UI Theme con el que se trabajara el proyecto.
   
 Imports:
 
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.rememberNavController
+import androidx.navigation.compose.NavHost  import androidx.navigation.compose.rememberNavController
