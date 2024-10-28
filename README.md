@@ -1,5 +1,6 @@
 # Proyecto-Plataformas
 Proyectos Plataformas - Fabian Prado y Samuel Mejia
+
 Este proyecto es una aplicación de Android enfocada en mostrar información sobre el turismo en Guatemala. Permite a los usuarios explorar diferentes destinos, conocer detalles de cada ubicación, y acceder a información cultural y turística.
 
 Quinta Entrega:
