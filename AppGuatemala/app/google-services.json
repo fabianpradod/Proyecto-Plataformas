@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038494912066",
+    "project_id": "proyectoplataformas-5b0c9",
+    "storage_bucket": "proyectoplataformas-5b0c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038494912066:android:bdadf8cb9f9e08822827db",
+        "android_client_info": {
+          "package_name": "com.proyectoplataformas.appguatemala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClK3Tq0ES_54zzvqPKw5t3AXoPOOXpecs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
