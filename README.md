@@ -13,7 +13,7 @@ Servicios
 API de Turismo Local:
 
 Descripción: Simula la provisión de información sobre destinos turísticos, detalles de atracciones y eventos culturales en Guatemala.
-Uso en la app: Obtener información de ubicaciones, destinos, y eventos para mostrar a los usuarios. Permite búsquedas y filtrado de destinos turísticos en la app.
+Uso en la app: Obtener información de ubicaciones, destinos, y eventos para mostrar a los usuarios. Permite búsquedas y filtrado de noticas turísticas en la app.
 
 DataStore de Android:
 
@@ -26,7 +26,7 @@ Descripción: Base de datos local en SQLite, implementada con Room, para el alma
 Uso en la app: Almacena los datos sincronizados de destinos turísticos y facilita el acceso offline.
 Librerías
 
-Retrofit:
+Ktor Client:
 
 Descripción: Cliente HTTP para manejar peticiones y recibir respuestas en formato JSON.
 Uso en la app: Realizar llamadas a la API de Turismo para obtener datos de destinos y detalles.
